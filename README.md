@@ -1,3 +1,7 @@
+Annika Spiers's GitHub repository is available here https://github.com/A-Spi/repository4sci1022
+
+
+
 this is an example README.md file
 
 ![fig_shakespeare](figures/shakespeare_portrait.jpg)
