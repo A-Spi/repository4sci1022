@@ -5,4 +5,4 @@ Figure 1.The Chandos portrait (held by the National Portrait Gallery, London)
 
 ![fig_sonnets](figures/shakespeare_sonnets.jpg)
 
-Figure 2. Title page from 1609 edition of Shake-Speares Sonnets.
+Figure 2. 1609 edition of Shake-Speares Sonnets.
